@@ -1,6 +1,7 @@
 # Testing
 New commit hash #1
 New commit hash #2
+New commit hash #3
 
 # RyeLite Example Plugin Template
 A template repository for creating plugins for the RyeLite client. This template showcases the basic structure, lifecycle methods, and how to use static resources like HTML, CSS, images, and audio files.
